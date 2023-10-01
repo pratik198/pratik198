@@ -4,11 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4f6232f2a5bc6459bfa870312f2295d77816a50769045a2c4f034dc94ed53473/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e6769663f6369643d65636630356534373177696f717136686f3677367967356a7963347679653771387868766b7038683074666771657563267269643d67697068792e6769662663743d67">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik198&label=Profile%20views&color=0e75b6&style=flat" alt="pratik198" /> </p>
 
-- 🔭 I’m currently working on [FacebookClone Project](https://github.com/pratik198/pokingdom)
+- 🔭 I’m currently working on [FacebookClone Project](https://github.com/pratik198/29thSep2023Facebook)
 
 - 🌱 I’m currently learning **JAVASCRIPT,REACT.JS**
-
-- 🤝 I’m looking for help with [A facebook clone](https://github.com/pratik198/29thSep2023Facebook)
 
 - 💬 Ask me about **Java,DSA,JavaScript**
 
